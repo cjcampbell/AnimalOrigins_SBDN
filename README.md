@@ -1,5 +1,5 @@
 # AnimalOrigins_SBDN
-Materials for Southeastern Bat Diversity Network (SBDN) 2019 annual meeting workshop, "From Haircuts to Origin Models: A Guide to Emerging Tools to Study Animal Movement by Stable Isotope Analysis."
+Materials for workshop, "From Haircuts to Origin Models: A Guide to Emerging Tools to Study Animal Movement by Stable Isotope Analysis," held at the 2019 combined 24th annual meeting of the Southeastern Bat Diversity Network (SBDN) and 29th Annual Colloquium on the Conservation of Mammals in the Southeastern U.S..
 
 
 ## Contact information
