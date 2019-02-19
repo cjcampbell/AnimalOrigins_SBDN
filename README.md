@@ -26,6 +26,8 @@ This workshop will introduce participants to stable isotopes as a means of creat
 
 [IsoMAP QuickStart Guide](https://isomap.rcac.purdue.edu/isomap/static/docs/170326_IsoMAP_QuickGuide.pdf)
 
+Vander Zanden, H. B., Nelson, D. M., Wunder, M. B., Conkling, T. J., & Katzner, T. (2018). Application of isoscapes to determine geographic origin of terrestrial wildlife for conservation and management. *Biological conservation*, 228, 268-280. [link](https://www.sciencedirect.com/science/article/pii/S0006320718304002)
+
 Bowen, G. J., Liu, Z., Vander Zanden, H. B., Zhao, L., & Takahashi, G. (2014). Geographic assignment with stable isotopes in IsoMAP. *Methods in Ecology and Evolution 5*(3), 201-206. [link](https://isomap.rcac.purdue.edu/isomap/static/docs/Assignment_MEE.pdf).
 
 Vander Zanden, H. B., Wunder, M. B., Hobson, K. A., Van Wilgenburg, S. L., Wassenaar, L. I., Welker, J. M., & Bowen, G. J. (2014). Contrasting assignment of migratory organisms to geographic origins using long‐term versus year‐specific precipitation isotope maps. *Methods in Ecology and Evolution, 5*(9), 891-900. [link](https://besjournals.onlinelibrary.wiley.com/doi/epdf/10.1111/2041-210X.12229)
@@ -33,3 +35,6 @@ Vander Zanden, H. B., Wunder, M. B., Hobson, K. A., Van Wilgenburg, S. L., Wasse
 ### isocat R Package
 
 [Github](https://github.com/cjcampbell/isocat)
+
+### ISOrigin
+[Github:isorig](https://github.com/SPATIAL-Lab/isorig)
