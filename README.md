@@ -36,5 +36,5 @@ Vander Zanden, H. B., Wunder, M. B., Hobson, K. A., Van Wilgenburg, S. L., Wasse
 
 [Github](https://github.com/cjcampbell/isocat)
 
-### ISOrigin
+### ISOrigin R Package
 [Github:isorig](https://github.com/SPATIAL-Lab/isorig)
